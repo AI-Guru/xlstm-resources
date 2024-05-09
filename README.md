@@ -4,8 +4,27 @@
 
 This is a repository that contains resources about xLSTM, a new type of LSTM cell proposed by Sepp Hochreiter.
 
+## Paper(s)
+
 Here is the xLSTM paper:
+
 - xLSTM: Extended Long Short-Term Memory, https://arxiv.org/abs/2405.04517
+
+## Implementations
+
+The first GitHub repositories that implement xLSTM are:
+
+- https://github.com/andrewgcodes/xlstm
+- https://github.com/muditbhargava66/PyxLSTM
+- https://github.com/kyegomez/xLSTM
+- https://github.com/akaashdash/xlstm
+- https://github.com/myscience/x-lstm
+
+Thanks Bastian Best for the list!
+
+## Resources
+
+Here are some resources about xLSTM:
 
 - NXAI: Sepp Hochreiter will europäische Antwort auf OpenAI erschaffen, Heise, https://www.heise.de/news/NXAI-Sepp-Hochreiter-will-europaeische-Antwort-auf-OpenAI-erschaffen-9618232.html
 - Der Mann hinter Siri und Alexa: So plant er den nächsten Coup, Handelsblatt, https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-der-mann-hinter-siri-und-alexa-so-plant-er-den-naechsten-coup/100011419.html
@@ -31,3 +50,4 @@ Deutscher KI-Pionier entwickelt schlanke LLM-Alternative, BigData Insider, Febru
 - https://www.linkedin.com/in/dr-tristan-behrens-734967a2/recent-activity/all/
 - https://www.linkedin.com/posts/dr-tristan-behrens-734967a2_i-am-listening-to-the-industrial-ai-podcast-activity-7193837406150623232-aNlQ
 - https://www.linkedin.com/posts/dr-tristan-behrens-734967a2_the-xlstm-paper-is-here-you-might-want-to-activity-7193836745107357696-N0Jz
+- https://www.linkedin.com/posts/dr-tristan-behrens-734967a2_open-source-xlstm-it-has-begun-people-have-activity-7194207145863663616-1VkA
