@@ -15,10 +15,10 @@ Here is the xLSTM paper:
 The first GitHub repositories that implement xLSTM are:
 
 - https://github.com/andrewgcodes/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/xlstm?style=social)
-- https://github.com/muditbhargava66/PyxLSTM
-- https://github.com/kyegomez/xLSTM
-- https://github.com/akaashdash/xlstm
-- https://github.com/myscience/x-lstm
+- https://github.com/muditbhargava66/PyxLSTM ![GitHub Repo stars](https://img.shields.io/github/stars/muditbhargava66/PyxLSTM?style=social)
+- https://github.com/kyegomez/xLSTM ![GitHub Repo stars](https://img.shields.io/github/stars/kyegomez/xLSTM?style=social)
+- https://github.com/akaashdash/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/akaashdash/xlstm?style=social)
+- https://github.com/myscience/x-lstm ![GitHub Repo stars](https://img.shields.io/github/stars/myscience/x-lstm?style=social)
 
 Thanks Bastian Best for the list!
 
