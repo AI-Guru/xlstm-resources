@@ -40,6 +40,8 @@ Here are some resources about xLSTM:
 - Hochreiter: „ChatGPT ist ein Schmarrn. Wir schlagen alles, was am Markt ist“, Kurier AT, February 2024, https://kurier.at/chronik/oberoesterreich/hochreiter-chatcpt-ist-ein-schmarrn-wir-schlagen-alles-was-am-markt-ist/402780517
 - 244: The xLSTM paper and a gripper, The Industrial AI Podcast, May 2024 https://aipod.de/the-xlstm-paper-and-a-gripper/
 Deutscher KI-Pionier entwickelt schlanke LLM-Alternative, BigData Insider, February 2024, https://www.bigdata-insider.de/deutscher-ki-pionier-entwickelt-schlanke-llm-alternative-a-d0847f49b169cc7378edae12554c4003/
+- xLSTM : A Comprehensive Guide to Extended Long Short-Term Memory, Unite.AI, May 2024, https://www.unite.ai/xlstm-a-comprehensive-guide-to-extended-long-short-term-memory/
+- LSTMs Rise Again: Extended-LSTM Models Challenge the Transformer Superiority, KDnuggets, May 2024, https://www.kdnuggets.com/lstms-rise-again-extended-lstm-models-challenge-the-transformer-superiority?utm_source=rss&utm_medium=rss&utm_campaign=lstms-rise-again-extended-lstm-models-challenge-the-transformer-superiority
 
 ## Tristans Posts
 
