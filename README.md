@@ -20,6 +20,7 @@ The first GitHub repositories that implement xLSTM are:
 - https://github.com/akaashdash/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/akaashdash/xlstm?style=social)
 - https://github.com/myscience/x-lstm ![GitHub Repo stars](https://img.shields.io/github/stars/myscience/x-lstm?style=social)
 - https://github.com/dtunai/x-lstm-jax ![GitHub Repo stars](https://img.shields.io/github/stars/dtunai/x-lstm-jax?style=social)
+- https://github.com/abeleinin/mlx-xLSTM ![GitHub Repo stars](https://img.shields.io/github/stars/abeleinin/mlx-xLSTM?style=social)
 
 Thanks Bastian Best for the list!
 
