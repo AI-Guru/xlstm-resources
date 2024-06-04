@@ -12,6 +12,10 @@ Here is the xLSTM paper:
 
 ## Implementations
 
+Here is the official implementation:
+
+- https://github.com/NX-AI/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/xlstm?style=social)
+
 The first GitHub repositories that implement xLSTM are:
 
 - https://github.com/andrewgcodes/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/xlstm?style=social)
