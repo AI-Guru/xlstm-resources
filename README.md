@@ -12,7 +12,11 @@ Here is the xLSTM paper:
 
 ## Implementations
 
-Here is the official implementation:
+Here is a Hugging Face compatible (datasets, accelerate) implementation by yours truly:
+
+- https://github.com/AI-Guru/helibrunna ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Guru/helibrunna?style=social)
+
+Here is the official implementation: 
 
 - https://github.com/NX-AI/xlstm ![GitHub Repo stars](https://img.shields.io/github/stars/NX-AI/xlstm?style=social)
 
