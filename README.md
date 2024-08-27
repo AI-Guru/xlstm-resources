@@ -4,6 +4,8 @@
 
 This is a repository that contains resources about xLSTM, a new type of LSTM cell proposed by Sepp Hochreiter.
 
+![xLSTM](xlstm.jpg)
+
 ## Paper(s)
 
 Here is the xLSTM paper:
@@ -37,6 +39,11 @@ The first GitHub repositories that implement xLSTM are:
 - https://github.com/abeleinin/mlx-xLSTM ![GitHub Repo stars](https://img.shields.io/github/stars/abeleinin/mlx-xLSTM?style=social)
 
 Thanks Bastian Best for the list!
+
+## Videos
+
+- xLSTM: Extended Long Short-Term Memory, Yannic Kilcher, https://www.youtube.com/watch?v=0OaEv1a5jUM
+- xLSTM: The Sequel To The Legendary LSTM, bycloud, https://www.youtube.com/watch?v=7r1-4LDJDmM
 
 ## Resources
 
