@@ -17,6 +17,7 @@ And here are other papers:
 - [An Evaluation of Deep Learning Models for Stock Market Trend Prediction](https://arxiv.org/abs/2408.12408)
 - [Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/abs/2406.04303)
 - [xLSTMTime : Long-term Time Series Forecasting With xLSTM](https://arxiv.org/abs/2407.10240)
+- [Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs](https://arxiv.org/abs/2408.16568)
 
 ## Implementations
 
