@@ -18,6 +18,7 @@ And here are other papers:
 - [Vision-LSTM: xLSTM as Generic Vision Backbone](https://arxiv.org/abs/2406.04303)
 - [xLSTMTime : Long-term Time Series Forecasting With xLSTM](https://arxiv.org/abs/2407.10240)
 - [Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs](https://arxiv.org/abs/2408.16568)
+- [A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks](https://arxiv.org/abs/2410.22391)
 
 ## Implementations
 
