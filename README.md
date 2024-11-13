@@ -19,6 +19,7 @@ And here are other papers:
 - [xLSTMTime : Long-term Time Series Forecasting With xLSTM](https://arxiv.org/abs/2407.10240)
 - [Audio xLSTMs: Learning Self-supervised audio representations with xLSTMs](https://arxiv.org/abs/2408.16568)
 - [A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics Tasks](https://arxiv.org/abs/2410.22391)
+- [CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory](https://arxiv.org/abs/2411.07863)
 
 ## Implementations
 
